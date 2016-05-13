@@ -1,2 +1,3 @@
 # hello-world
-Checking how and what is this.
+Hello fellas,
+Sudhanshu here!
